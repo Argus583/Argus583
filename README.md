@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:58a6ff&height=200&section=header&text=Hey%2C%20I%20am%20Argus583&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20%26%20Mobile%20Developer&descAlignY=58&descSize=20&descColor=a0c4ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1b27,100:58a6ff&amp;height=200&amp;section=header&amp;text=Hey%2C%20I%20am%20Argus583&amp;fontSize=45&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Fullstack%20%26%20Mobile%20Developer&amp;descAlignY=58&amp;descSize=20&amp;descColor=a0c4ff" width="100%"/>
 
 <div align="center">
 
@@ -88,4 +88,4 @@
 | [speak](https://github.com/Argus583/speak) | Android expense manager app | Java · Android |
 | [MusicMp4](https://github.com/Argus583/MusicMp4) | Android music player app | Java · Android |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:1a1b27&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:58a6ff,100:1a1b27&amp;height=120&amp;section=footer" width="100%"/>
