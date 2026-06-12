@@ -88,16 +88,4 @@
 | [speak](https://github.com/Argus583/speak) | Android expense manager app | Java · Android |
 | [MusicMp4](https://github.com/Argus583/MusicMp4) | Android music player app | Java · Android |
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:1a1b27&height=2" width="100%"/>
-
-### 🌍 Visitor Map
-
-<div align="center">
-
-[![](https://api.visitorbadge.io/api/visitors?path=Argus583&labelColor=%231a1b27&countColor=%2358a6ff&style=flat-square)](https://visitorbadge.io/status?path=Argus583)
-
-<img src="https://profile-counter.glitch.me/Argus583/count.svg" alt="Visitor Count"/>
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:1a1b27&height=120&section=footer" width="100%"/>
