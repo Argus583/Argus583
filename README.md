@@ -7,6 +7,8 @@
 [![Email](https://img.shields.io/badge/it.kg.ts@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:it.kg.ts@gmail.com)
 [![GitHub](https://img.shields.io/badge/Argus583-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Argus583)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Argus583&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
 
 ---
@@ -27,6 +29,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Argus583&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Argus583&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Argus583&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="495"/>
 
 </div>
 
