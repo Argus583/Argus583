@@ -11,7 +11,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1b27,100:0d1117&height=2" width="100%"/>
 
 ### 🛠 Tech Stack
 
@@ -19,9 +19,20 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,androidstudio,firebase,js,html,css,python&theme=dark)](https://skillicons.dev)
 
+<br/>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
+
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:1a1b27&height=2" width="100%"/>
 
 ### 📊 GitHub Stats
 
@@ -34,7 +45,17 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1b27,100:0d1117&height=2" width="100%"/>
+
+### 💬 Quote of the Day
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:1a1b27&height=2" width="100%"/>
 
 ### 🐍 Contribution Snake
 
@@ -48,7 +69,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1b27,100:0d1117&height=2" width="100%"/>
 
 ### 🚀 Projects
 
@@ -66,5 +87,17 @@
 | [Number](https://github.com/Argus583/Number) | Android number guessing app | Java · Android |
 | [speak](https://github.com/Argus583/speak) | Android expense manager app | Java · Android |
 | [MusicMp4](https://github.com/Argus583/MusicMp4) | Android music player app | Java · Android |
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:1a1b27&height=2" width="100%"/>
+
+### 🌍 Visitor Map
+
+<div align="center">
+
+[![](https://api.visitorbadge.io/api/visitors?path=Argus583&labelColor=%231a1b27&countColor=%2358a6ff&style=flat-square)](https://visitorbadge.io/status?path=Argus583)
+
+<img src="https://profile-counter.glitch.me/Argus583/count.svg" alt="Visitor Count"/>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:1a1b27&height=120&section=footer" width="100%"/>
