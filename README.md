@@ -1,9 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:58a6ff&height=200&section=header&text=Hey,%20I'm%20Argus583%20👋&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20%26%20Mobile%20Developer&descAlignY=58&descSize=20&descColor=a0c4ff" width="100%"/>
+
 <div align="center">
 
-# Hey, I'm Argus583 👋
-
-**Fullstack & Mobile Developer**  
-Building digital products from mobile apps to web dashboards
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Android+%26+Mobile+Developer;Fullstack+Web+Developer;Firebase+%7C+Java+%7C+JavaScript;Building+products+from+Kyrgyzstan+🇰🇬)](https://git.io/typing-svg)
 
 [![Email](https://img.shields.io/badge/it.kg.ts@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:it.kg.ts@gmail.com)
 [![GitHub](https://img.shields.io/badge/Argus583-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Argus583)
@@ -33,6 +32,30 @@ Building digital products from mobile apps to web dashboards
 
 ---
 
+### 🏆 Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Argus583&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Argus583/Argus583/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Argus583/Argus583/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Argus583/Argus583/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
+
+---
+
 ### 🚀 Projects
 
 | Project | Description | Stack |
@@ -49,3 +72,5 @@ Building digital products from mobile apps to web dashboards
 | [Number](https://github.com/Argus583/Number) | Android number guessing app | Java · Android |
 | [speak](https://github.com/Argus583/speak) | Android expense manager app | Java · Android |
 | [MusicMp4](https://github.com/Argus583/MusicMp4) | Android music player app | Java · Android |
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:1a1b27&height=120&section=footer" width="100%"/>
