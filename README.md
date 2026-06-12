@@ -11,7 +11,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1b27,100:0d1117&height=2" width="100%"/>
+---
 
 ### 🛠 Tech Stack
 
@@ -32,7 +32,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:1a1b27&height=2" width="100%"/>
+---
 
 ### 📊 GitHub Stats
 
@@ -45,7 +45,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1b27,100:0d1117&height=2" width="100%"/>
+---
 
 ### 💬 Quote of the Day
 
@@ -55,7 +55,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:1a1b27&height=2" width="100%"/>
+---
 
 ### 🐍 Contribution Snake
 
@@ -69,7 +69,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1b27,100:0d1117&height=2" width="100%"/>
+---
 
 ### 🚀 Projects
 
